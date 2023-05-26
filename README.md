@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Habibi Bayu</h1>
 <h3 align="center">I'm From Indonesia</h3>
-<img align="right" width="400" src="https://in.pinterest.com/pin/608126755952920292/](https://lottiefiles.com/40238-happy-coding](https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">
 
 - 🔭 I'm currently an active intern at **Klik Kanan Group Indonesia**
 
